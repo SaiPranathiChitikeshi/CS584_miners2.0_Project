@@ -7,7 +7,7 @@ Data analysis to provide insights in order to find solutions to the problem of d
 There are 2 ipynp files in this project.
 
 The year_wise_suicide_analysis.ipynb is used for analyzing the data for a period of time. We collected data from different years to analyze the suicide rate of the students. 
-The minor2.0.ipynb file is the main program file.
+The miners2.0.ipynb file is the main program file.
 
 Two datasets i.e., general characteristics and HADS are used to get the predictions 
 
